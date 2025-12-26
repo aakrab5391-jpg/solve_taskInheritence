@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Inheraitence/Inheraitence.csproj" />
+  <Project Path="../TaskBouns/TaskBouns.csproj" />
+  <Project Path="solve_taskInheritence.csproj" />
+</Solution>
